@@ -21,6 +21,9 @@
 <div align="center" style="display: inline_block">
   <a href="https://github.com/pedrovitorcoelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovitorcoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=008000"/>
+</div>
+
+<div align="center" style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitorcoelho&layout=compact&langs_count=10&theme=dark&title_color=008000"/>
   
   
