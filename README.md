@@ -1,7 +1,7 @@
 ## Hey, there! Thank you for coming.
 
 - 🔭 I'm currently doing tech suport internship
-- 🌱 I'm currently studyng software developer tech, at ETEC DR. Ruth Cardoso, in São Vicente, SP - Brazil 
+- 🌱 I'm currently studying software developer tech, at ETEC DR. Ruth Cardoso, in São Vicente, SP - Brazil 
 - 🧑‍💼 Looking for a opportunity to work as a software developer :)
 
 <div> 
@@ -18,26 +18,22 @@
 ##
 
 
-<div align="center" style="display: inline_block">
+<div align="left" style="display: inline_block">
   <a href="https://github.com/pedrovitorcoelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovitorcoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=008000"/>
+  
+   <img align="right" alt="Pedro-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="Pedro-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="right" alt="Pedro-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="Pedro-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Pedro-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
 </div>
 
-<div align="center" style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitorcoelho&layout=compact&langs_count=10&theme=dark&title_color=008000"/>
+##
   
-  
-</div>
+<div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
-  
-  
   ![Snake animation](https://github.com/pedrovitorcoelho/pedrovitorcoelho/blob/output/github-contribution-grid-snake.svg)
   
 </div>
