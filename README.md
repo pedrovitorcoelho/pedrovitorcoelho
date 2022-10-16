@@ -18,17 +18,19 @@
 ##
 
 
-<div align="left" style="display: inline_block">
+<div style="display: inline_block">
   <a href="https://github.com/pedrovitorcoelho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovitorcoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=008000"/>
+  <img left="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovitorcoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=008000"/>
   
-   <img align="right" alt="Pedro-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="Pedro-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Pedro-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="Pedro-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Pedro-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Pedro-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
-</div>
+  
+  
+</div> 
+  
 
 ##
   
