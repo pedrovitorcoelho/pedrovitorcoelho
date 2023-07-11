@@ -1,7 +1,8 @@
 ## Hey, there! Thank you for coming.
 
+- Tech Software Developer, for ETEC Doutora Ruth Cardoso
 - 🔭 I'm currently doing tech suport internship
-- 🌱 I'm currently studying software developer tech, at ETEC DR. Ruth Cardoso, in São Vicente, SP - Brazil 
+- 🌱 I'm currently studying software developer, at FATEC, in Praia Grande, SP - Brazil
 - 🧑‍💼 Looking for a opportunity to work as a software developer :)
 
 <div> 
