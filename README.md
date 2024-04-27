@@ -3,7 +3,7 @@
 - Tech Software Developer, for ETEC Doutora Ruth Cardoso
 - 🔭 I'm currently doing tech suport internship
 - 🌱 I'm currently studying software developer, at FATEC, in Praia Grande, SP - Brazil
-- 🧑‍💼 Looking for a opportunity to work as a software developer :)
+- 🧑‍💼 Looking for a opportunity to work as a Quality Assurance :)
 
 <div> 
 
