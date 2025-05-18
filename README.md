@@ -1,9 +1,8 @@
 ## Hey, there! Thank you for coming.
 
 - Tech Software Developer, for ETEC Doutora Ruth Cardoso
-- 🔭 I'm currently doing tech suport internship
 - 🌱 I'm currently studying software developer, at FATEC, in Praia Grande, SP - Brazil
-- 🧑‍💼 Quality Assurance Internship at MODALGR :)
+- 🧑‍💼 Quality Assurance Analyst at NETCRACKER :)
 
 <div> 
 
